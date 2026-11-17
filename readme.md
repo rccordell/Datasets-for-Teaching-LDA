@@ -1,4 +1,4 @@
-# Sample Date for Topic Modeling
+# Sample Data for Topic Modeling
 
 The data in this folder is configured for experimenting with [jsLDA](https://mimno.infosci.cornell.edu/jsLDA/), an in-browser topic modeling tool developed by David Mimno's research group at Cornell that allows you to perform topic modeling without having to download any software or learn any programming. jsLDA allows users to upload both their own corpus as well as a list of stop words that they want to exclude from the data, and it also allows you to download the results of the analysis for further investigation. According to the tool's documentation, "jsLDA works in Chrome, Safari, and Firefox," so if you typically use a different browser from these, you might have to switch.
 
